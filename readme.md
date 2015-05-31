@@ -2,6 +2,8 @@ Minimal SMTP mail
 ======================
 The minimum code required to allow you to send emails over SMTP. When enabled and configured the plugin will configure WordPress's built-in method of emailing to send emails over SMTP rather than using PHP's mail() function. Can be configured under 'Settings'.
 
+![Screenshot](/screenshot.jpg?raw=true "Screenshot of the settings page.")
+
 ----------
 
 ## Details
