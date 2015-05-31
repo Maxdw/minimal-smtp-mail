@@ -12,7 +12,7 @@ Requires at least **WordPress 4.2**
 Tested up to **WordPress 4.2.2**
 
 ## Installation
-WordPress -> Plugins -> Add New -> Upload Plugin -> *(select zip file)* -> Install Now
+[Download ZIP](https://github.com/Maxdw/minimal-smtp-mail/archive/master.zip) -> WordPress -> Plugins -> Add New -> Upload Plugin -> *(select zip file)* -> Install Now
 
 ## License
 The MIT License (MIT)
